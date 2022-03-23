@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Whack-A-Mole</string>
+    <string name="score">0</string>
+    <string name="lives_left">10</string>
+    <string name="hole1">hole_1</string>
+    <string name="hole2">hole_2</string>
+    <string name="hole3">hole_3</string>
+    <string name="hole4">hole_4</string>
+    <string name="hole5">hole_5</string>
+    <string name="mole1">mole_1</string>
+    <string name="mole2">mole_2</string>
+    <string name="mole3">mole_3</string>
+    <string name="mole4">mole_4</string>
+    <string name="mole5">mole_5</string>
+    <string name="start">start</string>
+    <string name="GameOver">gameOver</string>
+    <string name="HighScore">highScore</string>
+    <string name="CurrentScore">CurrentScore</string>
+</resources>
